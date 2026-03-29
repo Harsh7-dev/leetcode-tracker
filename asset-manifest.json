@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/leetcode-tracker/static/css/main.6d3604bc.css",
-    "main.js": "/leetcode-tracker/static/js/main.e18aaa2c.js",
+    "main.css": "/leetcode-tracker/static/css/main.41d8c3ed.css",
+    "main.js": "/leetcode-tracker/static/js/main.230a5d77.js",
     "static/js/453.8fc707e2.chunk.js": "/leetcode-tracker/static/js/453.8fc707e2.chunk.js",
     "index.html": "/leetcode-tracker/index.html",
-    "main.6d3604bc.css.map": "/leetcode-tracker/static/css/main.6d3604bc.css.map",
-    "main.e18aaa2c.js.map": "/leetcode-tracker/static/js/main.e18aaa2c.js.map",
+    "main.41d8c3ed.css.map": "/leetcode-tracker/static/css/main.41d8c3ed.css.map",
+    "main.230a5d77.js.map": "/leetcode-tracker/static/js/main.230a5d77.js.map",
     "453.8fc707e2.chunk.js.map": "/leetcode-tracker/static/js/453.8fc707e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d3604bc.css",
-    "static/js/main.e18aaa2c.js"
+    "static/css/main.41d8c3ed.css",
+    "static/js/main.230a5d77.js"
   ]
 }
